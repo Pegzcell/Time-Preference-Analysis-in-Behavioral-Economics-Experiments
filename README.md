@@ -1,3 +1,4 @@
 # Time-Preference-Analysis-in-Behavioral-Economics-Experiments
 The paper aims to study the effect of time inconsistency on economic behavior by providing inter-temporal choices over popular experimental instruments in social psychology and economics, like the ultimatum game and the dictator game. Endowments gets monotonically influenced(either increase or decrease) by the time penalty on rewards, indicating a direct function of time preference. Traditional models of economics assumed that the discounting function is exponential in time leading to a monotonic decrease in preference with increased time delay; however, more recent neuroeconomic models suggest a hyperbolic discount function that can address the phenomenon of preference reversal. 
+
 **Keywords: Inter-temporal Choices, Time preference/discounting, DG/UG, Present bias-Time Inconsistency, Quasi-Hyperbolic Discounting**
